@@ -6,6 +6,8 @@ var engine, world;
 var tower
 var ground,cannon;
 var cannonBall
+var arr=[[1,2],[23,4],[5,"daniya"]]
+console.log(arr)
 
 function preload(){
   bg=loadImage("./assets/background.gif")  
